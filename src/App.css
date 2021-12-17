@@ -36,7 +36,7 @@
   }
   
   .sign-up {
-    background-image: url('//public/images/img-8.jpg');
+    background-image: url('/public/images/img-8.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
